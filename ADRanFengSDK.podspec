@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ADRanFengSDK'
-  s.version          = '2.1.0.1'
+  s.version          = '2.1.0.1-noidfa'
   s.summary          = 'A short description of ADRanFengSDK.'
 
   s.description      = <<-DESC
@@ -22,7 +22,7 @@ TODO: Add long description of the pod here.
   
   s.vendored_frameworks = 'ADRanFengSDK/Classes/*.xcframework'
 
-  s.dependency 'ADRFMediationKit', '~> 0.7.0.06291'
+  s.dependency 'ADRFMediationKit', '0.7.0.06291-noidfa'
   s.dependency 'ADRFMediationNetwork', '~> 0.2.1.0'
   s.dependency 'ADRFMediationLocationManager', '~> 0.2.0.0'
 
