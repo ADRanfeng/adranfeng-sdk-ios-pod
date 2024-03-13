@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64_armv7/ADRanFengSDK.framework/ADRanFengSDK</key>
 		<data>
-		dpJrllNxYizYDBYprwUvd6hSkPM=
+		2q7judAdzwBXqlBkskYuYFKRIdY=
 		</data>
 		<key>ios-arm64_armv7/ADRanFengSDK.framework/Headers/ADRanFengBannerAdView.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>ios-arm64_i386_x86_64-simulator/ADRanFengSDK.framework/ADRanFengSDK</key>
 		<data>
-		sPDrWGqvW4+jUH0h346zs2nfOko=
+		t1vTVN0fQ0O+quztVX7zk6LKEek=
 		</data>
 		<key>ios-arm64_i386_x86_64-simulator/ADRanFengSDK.framework/Headers/ADRanFengBannerAdView.h</key>
 		<data>
@@ -147,11 +147,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dpJrllNxYizYDBYprwUvd6hSkPM=
+			2q7judAdzwBXqlBkskYuYFKRIdY=
 			</data>
 			<key>hash2</key>
 			<data>
-			4FAdDYvQX2Qwx6QEbgFZVkIApvp8kdjKU/mTWGlXqm0=
+			wiS6v7IeM5b40vj6NrJDPPDSe0N5MygT/3dDGHw0kvQ=
 			</data>
 		</dict>
 		<key>ios-arm64_armv7/ADRanFengSDK.framework/Headers/ADRanFengBannerAdView.h</key>
@@ -334,11 +334,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sPDrWGqvW4+jUH0h346zs2nfOko=
+			t1vTVN0fQ0O+quztVX7zk6LKEek=
 			</data>
 			<key>hash2</key>
 			<data>
-			3gA75TG0ALYnsqZTPUWfyGEWonsQy8OJb4RIuzgfR/A=
+			U+54py5Mn+N4u5j0+mhzITELJFtvgrhAyMPQytzPvkU=
 			</data>
 		</dict>
 		<key>ios-arm64_i386_x86_64-simulator/ADRanFengSDK.framework/Headers/ADRanFengBannerAdView.h</key>
